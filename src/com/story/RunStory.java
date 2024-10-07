@@ -1,6 +1,6 @@
 package com.story;
 
-import com.youtube.projects.story.util.Story;
+import com.story.util.Story;
 
 public class RunStory {
 

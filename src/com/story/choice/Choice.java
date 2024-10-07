@@ -1,6 +1,6 @@
 package com.story.choice;
 
-import com.youtube.projects.story.util.Story;
+import com.story.util.Story;
 
 @FunctionalInterface
 public interface Choice {
