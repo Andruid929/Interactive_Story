@@ -1,0 +1,6 @@
+Interactive Story project...
+
+Telling a story with path choices
+
+Technologies to be used in the project:
+Java programming language; classes, polymorphism
